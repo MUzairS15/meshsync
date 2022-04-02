@@ -10,13 +10,13 @@ go 1.13
 
 require (
 	github.com/buger/jsonparser v1.1.1
-	github.com/google/uuid v1.1.2
-	github.com/layer5io/meshkit v0.2.34
+	github.com/google/uuid v1.2.0
+	github.com/layer5io/meshkit v0.5.12
 	github.com/myntra/pipeline v0.0.0-20180618182531-2babf4864ce8
 	github.com/spf13/viper v1.8.1
 	gorm.io/gorm v1.20.10
-	k8s.io/api v0.21.0
-	k8s.io/apimachinery v0.21.0
-	k8s.io/client-go v0.21.0
-	k8s.io/kubectl v0.21.0
+	k8s.io/api v0.23.0-alpha.1
+	k8s.io/apimachinery v0.23.0-alpha.1
+	k8s.io/client-go v0.23.0-alpha.1
+	k8s.io/kubectl v0.23.0-alpha.1
 )
